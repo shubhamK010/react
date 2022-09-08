@@ -35,6 +35,8 @@ function add(){
     let y =20
     console.log(x+y)
 }
+
+
 //yaha pe humne function ko call nahi kiya ..function ke andar hi variables ki value assign ki hai i.e. parameters ki value assogn ki hai 
 //yaha humne function ke andar hi state maintain ki hai
 

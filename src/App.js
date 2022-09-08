@@ -9,6 +9,9 @@ import Exercise2 from './components/Exercise2';
 import NewState from './components/NewState';
 import News from './components/News';
 import Hunter from './components/Hunter';
+import ClickFunction from './components/ClickFunction';
+import ClickClass from './components/ClickClass';
+import BindEvent from './components/BindEvent';
 
 
 
@@ -32,10 +35,16 @@ function App() {
       {/* <Display2 firstName="pravin" lastName="shelar" /> */}
       {/* <Exercise2 firstName="tushar" lastName="ghadage" /> */}
       {/* <NewState message = "Hello"></NewState> */}
-      <News />
+      {/* <News />
       <Hunter />
       <Display2 firstName="bapurao" lastName="shelar" />
-      <Exercise firstName="viraj" lastName="rasal"/>   
+      <Exercise firstName="viraj" lastName="rasal"/>    */}
+
+      {/* <ClickFunction></ClickFunction>
+      <ClickClass></ClickClass> */}
+      <BindEvent></BindEvent>
+     
+
    
 
 
