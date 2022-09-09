@@ -12,6 +12,7 @@ import Hunter from './components/Hunter';
 import ClickFunction from './components/ClickFunction';
 import ClickClass from './components/ClickClass';
 import BindEvent from './components/BindEvent';
+import Qualification from './components/Qualification';
 
 
 
@@ -42,7 +43,10 @@ function App() {
 
       {/* <ClickFunction></ClickFunction>
       <ClickClass></ClickClass> */}
-      <BindEvent></BindEvent>
+      {/* <BindEvent></BindEvent> */}
+
+
+      <Qualification></Qualification>
      
 
    
