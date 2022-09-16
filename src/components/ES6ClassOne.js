@@ -110,7 +110,7 @@ addB ( 50, 1,15,46,782,964,78,42,36,15,98,4,75,33,44,220,8,9,7,4,1)
 //yaha pe mujhe elements greater than 50 chahiye isiliye 50 call karte samay sabse pehle liya..aur baki ke elements jo aage hai usme se hume 50 se upar wale ek array me compile hoke milenge
 
 
-function addC(a,b,...arr){
+function addB(a,b,...arr){
     let q5 =arr.filter(function(el){
         return el>a
     })

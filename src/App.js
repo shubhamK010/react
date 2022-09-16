@@ -13,7 +13,7 @@ import ClickFunction from './components/ClickFunction';
 import ClickClass from './components/ClickClass';
 import BindEvent from './components/BindEvent';
 import Qualification from './components/Qualification';
-
+import ParentComponent from './components/ParentComponent';
 
 
 
@@ -46,7 +46,10 @@ function App() {
       {/* <BindEvent></BindEvent> */}
 
 
-      <Qualification></Qualification>
+      {/* <Qualification></Qualification> */}
+
+
+      <ParentComponent></ParentComponent>
      
 
    
